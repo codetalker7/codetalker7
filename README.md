@@ -1,4 +1,5 @@
 [![Siddhant's GitHub stats](https://github-readme-stats-peach-three-90.vercel.app/api?username=codetalker7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-peach-three-90.vercel.app/api/top-langs/?username=codetalker7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **codetalker7/codetalker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
