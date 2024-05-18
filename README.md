@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=codetalker7)
+
 Hello! I'm mostly interested in machine learning (both theory and applied), algorithms, and compiler/programming language theory. I also contribute to open source. You can see my webpage on the left.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetalker7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
