@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=codetalker7)
 
-Hello! I'm currently a PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I maintain a homepage where you can find more about me: https://codetalker7.github.io/. These days I'm interested in all things inference: KV caches, quantization, offloading, sparse attention, disaggregated serving, speculative decoding, entropic coding, and model compression. If you're interested in these areas and would like to collaborate on a problem, feel free to reach out!
+Hello! I'm currently a PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I maintain a homepage where you can find more about me: https://codetalker7.github.io/. These days I'm interested in all things inference: KV caches, quantization, offloading, sparse attention, disaggregated serving, speculative decoding, entropic coding, orchestration, scheduling, and model compression. I also happen to have a theory-heavy background (wherein my interests are mostly in high-dimensional statistics and probability theory), and I'm curious to learn more Lean and autoformalization at scale. If you're interested in these areas and would like to collaborate on a problem, feel free to reach out!
 
 <!--
 **codetalker7/codetalker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
