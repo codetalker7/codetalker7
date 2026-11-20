@@ -1,14 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=codetalker7)
 
-Hello! I'm mostly interested in machine learning (both theory and applied), algorithms, and compiler/programming language theory. I also contribute to open source. You can see my webpage on the left.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetalker7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,c,cpp,gtk,latex,linux,neovim,py,pytorch," />
-  </a>
-</p>
+Hello! I'm currently a PhD student at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I maintain a homepage where you can find more about me: https://codetalker7.github.io/. These days I'm interested in all things inference: KV caches, quantization, offloading, sparse attention, disaggregated serving, speculative decoding, entropic coding, and model compression. If you're interested in these areas and would like to collaborate on a problem, feel free to reach out!
 
 <!--
 **codetalker7/codetalker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
